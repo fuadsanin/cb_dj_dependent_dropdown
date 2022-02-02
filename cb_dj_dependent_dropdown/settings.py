@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'cb_dj_dependent_dropdown.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'country',
+        'NAME': 'dropdown',
         'USER': 'root',
         'PASSWORD':'',
         'HOST':'localhost',
